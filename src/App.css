@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  padding-top: 23px;
+  color: gray;
+}
+
+.search-wrapper{
+  display: flex;
+  justify-content: center;
+}
+
+.columns{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.color{
+  color: white;
+  font-size: 61px;
+}

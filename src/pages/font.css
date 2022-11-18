@@ -1,0 +1,21 @@
+.font {
+    font-size: 20px;
+    color: black;
+}
+
+body{
+    background-image: url('https://storage.googleapis.com/afs-prod/media/e53811360eed4b8ba26b5f635d703a7c/3000.jpeg');
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+}
+
+.titlefont{
+    text-align: center;
+    color: black;
+    font-size: 35px;
+}
+
+.errortitle{
+    color: white;
+}
